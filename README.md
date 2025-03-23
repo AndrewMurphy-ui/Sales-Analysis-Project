@@ -5,7 +5,7 @@
 This project analyzes store sales data from February to December 2020 to identify key revenue trends. Using SQL for data processing and Power BI for visualization, we uncover insights into product performance and sales growth.
 
 📂 Files in this Repository
-📜 sales_analysis.sql → SQL queries for extracting and analyzing sales data.
+📜 sales_db.sql → SQL queries for extracting and analyzing sales data.
 
 📈 Sales Project.pbix → Power BI dashboard visualizing key trends.
 
