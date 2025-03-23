@@ -7,7 +7,7 @@ This project analyzes store sales data from February to December 2020 to identif
 📂 Files in this Repository
 📜 sales_analysis.sql → SQL queries for extracting and analyzing sales data.
 
-📈 Sales_Report.pbix → Power BI dashboard visualizing key trends.
+📈 Sales Project.pbix → Power BI dashboard visualizing key trends.
 
 📊 store_sales.csv →  Sample dataset used for analysis.
 
