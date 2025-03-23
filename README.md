@@ -1,4 +1,6 @@
 📊 Store Sales Analysis (Feb–Dec 2020)
+
+
 📌 Overview
 This project analyzes store sales data from February to December 2020 to identify key revenue trends. Using SQL for data processing and Power BI for visualization, we uncover insights into product performance and sales growth.
 
