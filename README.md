@@ -1,3 +1,12 @@
+
+![Image](https://github.com/user-attachments/assets/9843691f-05a3-4acf-a69b-040be11e9b3b)
+
+
+
+
+
+
+
 📊 Store Sales Analysis (Feb–Dec 2020)
 
 
