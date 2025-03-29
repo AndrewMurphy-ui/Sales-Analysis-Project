@@ -18,7 +18,7 @@ The Store Sales Analysis Project examines sales data from February to December 2
 📜 sales_db.sql: SQL queries for extracting, transforming, and analyzing sales data.
 📈 Sales Project.pbix: Power BI dashboard visualizing key sales trends and insights.
 📊 store_sales.csv: Sample dataset used for analysis.
-🔍 Key Insights from Power BI Visualization
+🔍 Key Insights from Power BI Visualization.
 
 
 The "Store Sales Analysis (February - December 2020)" dashboard provides a detailed view of sales performance, product contributions, and trends over the 11-month period.
