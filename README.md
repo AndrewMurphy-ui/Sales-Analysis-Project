@@ -19,6 +19,8 @@ The Store Sales Analysis Project examines sales data from February to December 2
 📈 Sales Project.pbix: Power BI dashboard visualizing key sales trends and insights.
 📊 store_sales.csv: Sample dataset used for analysis.
 🔍 Key Insights from Power BI Visualization
+
+
 The "Store Sales Analysis (February - December 2020)" dashboard provides a detailed view of sales performance, product contributions, and trends over the 11-month period.
 Total Revenue: Generated $12.67362K in total revenue across 29 purchases, showcasing a solid sales performance for the period.
 Top-Performing Product: Product SKU13351 emerged as a key revenue driver, contributing significantly to overall sales.
