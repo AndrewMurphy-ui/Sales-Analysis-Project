@@ -8,43 +8,65 @@
 
 📊 Store Sales Analysis (Feb–Dec 2020)
 
-![image](https://github.com/user-attachments/assets/e5be8d56-8903-4619-8b92-1adf15a574e4)
+![image](https://github.com/user-attachments/assets/ec4082a1-1b7f-4967-af50-4a97b73005da)
 
 
-📌 Overview
-The Store Sales Analysis Project examines sales data from February to December 2020 to uncover key revenue trends, product performance, and seasonal patterns. This project leverages SQL for data processing and Power BI for interactive visualizations, providing actionable insights into sales dynamics over the specified period.
-
-📂 Files in this Repository
-📜 sales_db.sql: SQL queries for extracting, transforming, and analyzing sales data.
-📈 Sales Project.pbix: Power BI dashboard visualizing key sales trends and insights.
-📊 store_sales.csv: Sample dataset used for analysis.
-🔍 Key Insights from Power BI Visualization.
 
 
-The "Store Sales Analysis (February - December 2020)" dashboard provides a detailed view of sales performance, product contributions, and trends over the 11-month period.
-Total Revenue: Generated $12.67362K in total revenue across 29 purchases, showcasing a solid sales performance for the period.
-Top-Performing Product: Product SKU13351 emerged as a key revenue driver, contributing significantly to overall sales.
-Revenue by Product Size:
-The majority of revenue ($11.62K, 91.69%) came from products with a purchase size of 1.
-Smaller contributions came from purchase sizes of 3 ($0.54K, 4.25%) and 5 ($0.23K, 1.81%), indicating a preference for smaller purchase sizes.
-Purchase Price Trends:
+## 📌 Overview
+Understanding sales performance is key to making informed business decisions. This dashboard explores store sales data from February to December 2020, uncovering insights into revenue trends, customer behavior, and product performance. By analyzing key metrics, we can identify best-selling products, assess customer loyalty, and detect seasonal trends that impact sales.
 
-The "Purchase Price by Date" chart shows significant fluctuations in purchase prices throughout 2020, with peaks around late February, mid-April, early June, and late August, likely driven by seasonal demand or promotional events.
-A notable dip in purchase prices occurred in July, followed by a gradual recovery towards December, suggesting potential impacts from market conditions or inventory adjustments.
-Seasonal Patterns: Sales exhibited clear seasonal trends, with higher purchase prices during spring and summer months (April to August) and a decline in the fall (September to November), before a slight uptick in December, possibly due to holiday shopping.
+## 📊 Key Insights
+- **Total Revenue**: $1,000.00
+- **Top-Selling Product**: Bed
+- **Most Loyal Customer (by transaction count)**: Customer ID 9080
+- **Peak Sales Month**: March
+- **Lowest Sales Month**: May
 
+## 📈 Visualizations & Insights
 
-🛠️ Tools Used
-SQL: For data extraction, transformation, and analysis.
-Power BI: For creating interactive dashboards and visualizing sales trends.
+### 🏷️ Product Pricing Distribution (Histogram)
+- **What it Shows**: The distribution of product prices across different product categories.
+- **Key Takeaways**:
+  - "Couch" has the highest price count, indicating either a wide price range or high sales volume.
+  - "Fan," "rug," and "desk" also have notable price variations.
+  - Niche items like "vase" and "mirror" have lower sales or fewer price options.
 
+### 📅 Monthly Revenue Trends (Line Chart)
+- **What it Shows**: The number of revenue-generating transactions per month.
+- **Key Takeaways**:
+  - March saw the highest transaction count (4), suggesting strong demand.
+  - May experienced a sharp drop, possibly due to external market conditions.
+  - August saw a resurgence in sales, but fluctuations continued through December.
+  - Sales inconsistency highlights the need for strategies to stabilize revenue.
 
-📥 How to Use
-Set Up the Database:
-Import the store_sales.csv dataset into your SQL database (e.g., MySQL).
-Run the sales_db.sql script to process and analyze the data.
-Explore the Visualizations:
-Open Sales Project.pbix in Power BI to interact with the "Store Sales Analysis" dashboard and explore the insights.
-Customize and Extend:
-Modify the SQL queries in sales_db.sql to analyze additional metrics or time periods.
-Update the Power BI dashboard to include new visualizations or filters as needed.
+### 🛍️ Customer Purchase Behavior (Bar Chart)
+- **What it Shows**: The number of transactions per customer ID.
+- **Key Takeaways**:
+  - Most customers made a single purchase, indicating low repeat business.
+  - Customer ID 9080 is an exception, making two purchases.
+  - Opportunities exist for improving customer retention and encouraging repeat purchases.
+
+## 📌 Data Details
+- **Timeframe**: February - December 2020
+- **Product Categories**: Couch, fan, rug, desk, bed, bookcase, chair, lamp, mirror, and vase.
+- **Customers**: Unique customer IDs assigned to transactions.
+
+## 📌 How to Use This Dashboard
+1. **Assess Overall Performance** – Review total revenue and top-performing products.
+2. **Analyze Pricing Trends** – Use the histogram to understand pricing distribution.
+3. **Track Sales Fluctuations** – Examine the line chart for monthly sales trends.
+4. **Evaluate Customer Loyalty** – Identify repeat customers using the bar chart.
+5. **Develop Business Strategies** – Use insights to improve pricing, promotions, and retention.
+
+## 🚧 Limitations & Future Enhancements
+- The dataset lacks January 2020 data, limiting a full-year analysis.
+- The "Count of Revenue" metric may reflect transactions rather than monetary revenue.
+- Further demographic details on customers could enhance retention insights.
+- Expanding the dataset to previous years could provide long-term trend analysis.
+
+## 📬 Contact
+For further analysis or inquiries, please reach out to [Your Contact Information].
+
+---
+This README serves as a structured guide to your analysis, providing clear takeaways and a storytelling approach. Let me know if you'd like any refinements!
