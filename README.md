@@ -8,7 +8,9 @@
 
 📊 Store Sales Analysis (Feb–Dec 2020)
 
-![image](https://github.com/user-attachments/assets/4d2cf676-faf1-4a57-a8d1-5ff8ff31f14b)
+
+![image](https://github.com/user-attachments/assets/6da51bc3-7c8e-4598-a743-6455afef76f4)
+
 
 
 
