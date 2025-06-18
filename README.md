@@ -19,7 +19,7 @@
 
 
 ## 📌 Overview
-Understanding sales performance is key to making informed business decisions. This dashboard explores store sales data from February to December 2020, uncovering insights into revenue trends, customer behavior, and product performance. By analyzing key metrics, we can identify best-selling products, assess customer loyalty, and detect seasonal trends that impact sales.
+Understanding sales performance is key to making informed business decisions. This dashboard explores store sales data from February to December 2020, uncovering insights into revenue trends, customer behavior, and product performance. We can identify best-selling products by analyzing key metrics, assess customer loyalty, and detect seasonal trends that impact sales.
 
 ## 📊 Key Insights
 - **Total Revenue**: $1,000.00
